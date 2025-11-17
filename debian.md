@@ -14,7 +14,7 @@ Oh, so you chose the hard way. Good luck! Given it's 2025, we assume you are usi
   
 ## Installing the necessary links and packages
 
-Install the `cor-debian-packages` meta package at https://github.com/mascaldotfr/cor-debian-packages (you'll find instructions there)
+Install the `cor-debian-packages` meta package at [https://github.com/mascaldotfr/cor-debian-packages](https://github.com/mascaldotfr/cor-debian-packages) (you'll find instructions there as well)
 
 ## Have fun
 
