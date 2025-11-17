@@ -18,4 +18,4 @@ Install the `cor-debian-packages` meta package at https://github.com/mascaldotfr
 
 ## Have fun
 
-You may get further issues after running the game, see [the troubleshooting version](troubleshoot.md) if it occurs.
+You may get further issues after running the game, see [the troubleshooting section](troubleshooting.md) if it occurs.
