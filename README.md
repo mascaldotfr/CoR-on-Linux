@@ -1,3 +1,7 @@
+![](img/CoR-on-Linux.jpg)
+
+*Champions of Regnum on Linux!*
+
 # Introduction
 
 Running Regnum on Linux can be quite tricky these days, especially that the client is pretty ancient and requires libraries no more available in modern systems.
