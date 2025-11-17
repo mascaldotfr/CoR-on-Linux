@@ -41,4 +41,4 @@ At least one player reported to be able to run the game without further modifica
 
 ## Have fun
 
-You may get further issues after running the game, see [the troubleshooting version](troubleshoot.md) if it occurs.
+You may get further issues after running the game, see [the troubleshooting version](troubleshooting.md) if it occurs.
