@@ -2,4 +2,13 @@
 
 *We assume steam is already installed, and yo already installed Rrgnum in your library*
 
-<img width="1208" height="708" alt="image" src="https://github.com/user-attachments/assets/c6cf1b10-a251-44d8-880d-39a253b0ce92" />
+## Accessing game properties
+
+1. Go to your library
+2. Choose _**Champions of Regnum**_
+3. Click on the _**gear icon**_
+4. Click on _**Properties**_
+
+![](img/steam.md/1.jpg)
+
+
