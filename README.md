@@ -5,7 +5,7 @@ Running Regnum on Linux can be quite tricky these days, especially that the clie
 ## Index
 
 1. **RECOMMENDED** and trouble-free: [Using Steam with Proton](steam.md) (*yup, using the Windows version!*)
-2. Native client, [Debian and derivative](debian.md) (Ubuntu, Mint etc.)
+2. Native client, [Debian and derivatives](debian.md) (Ubuntu, Mint etc.)
 3. Native client, [other distributions](other_distros.md)
 4. General [troubleshooting](troubleshooting.md)
 
