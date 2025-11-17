@@ -42,7 +42,7 @@ Known working locales changes below.
 
 ```shell
 sudo dpkg-reconfigure locales
-# tick your language, for exemple fr_FR for French
+# tick your language, for example fr_FR for French
 # validate the change
 # Ensure the locale is well installed
 locale -a
