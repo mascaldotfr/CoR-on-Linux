@@ -35,6 +35,10 @@ sudo xbps-install ncurses-libtinfo-libs
 sudo ln -s /usr/lib64/libtinfo.so.6 /usr/lib64/libtinfo.so.5
 ```
 
+### Nobara
+
+At least one player reported to be able to run the game without further modifications.
+
 ## Have fun
 
 You may get further issues after running the game, see [the troubleshooting version](troubleshoot.md) if it occurs.
