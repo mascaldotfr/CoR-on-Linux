@@ -8,8 +8,10 @@ Running Regnum on Linux can be quite tricky these days, especially that the clie
 
 ## Index
 
+There are several ways to do this:
+
 - **RECOMMENDED** and trouble-free: [Using Steam with Proton](steam.md) (*yup, using the Windows version!*)
-- Native client, [Debian and derivatives](debian.md) (Ubuntu, Mint etc.)
-- Native client, [other distributions](other_distros.md)
+- Without Steam on [Debian and derivatives](debian.md) (Ubuntu, Mint etc.)
+- Without Steam on [other distributions](other_distros.md)
 - General [troubleshooting](troubleshooting.md)
 
