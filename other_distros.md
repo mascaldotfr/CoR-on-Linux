@@ -25,7 +25,20 @@ It's where your mileage may vary. Technically you need to:
    - `libncursesw.so.6` to `libncursesw.so.5`
    - `libtinfo.so.6` to `libtinfo.so.5`
 
-Some known working infos are presented below.
+Some known working infos on different distros are presented below.
+
+### Fedora
+
+```sh
+sudo dnf install gtk2
+cd /lib64
+sudo ln -s libncursesw.so.6 libncursesw.so.5
+sudo ln -s libtinfo.so.6 libtinfo.so.5
+```
+
+### Nobara
+
+At least one player reported to be able to run the game without further modifications.
 
 ### Void Linux
 
@@ -35,9 +48,6 @@ sudo xbps-install ncurses-libtinfo-libs
 sudo ln -s /usr/lib64/libtinfo.so.6 /usr/lib64/libtinfo.so.5
 ```
 
-### Nobara
-
-At least one player reported to be able to run the game without further modifications.
 
 ## Have fun
 
