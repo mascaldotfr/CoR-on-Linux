@@ -10,8 +10,11 @@ Running Regnum on Linux can be quite tricky these days, especially that the clie
 
 There are several ways to do this:
 
-- **RECOMMENDED** and trouble-free: [Using Steam with Proton](steam.md) (*yup, using the Windows version!*)
+- [Using Steam with Proton](steam.md), the easiest way but crash for crash compatible with Windows
 - Without Steam on [Debian and derivatives](debian.md) (Ubuntu, Mint etc.)
 - Without Steam on [other distributions](other_distros.md)
+
+## Troubleshooting
+
 - General [troubleshooting](troubleshooting.md)
 
