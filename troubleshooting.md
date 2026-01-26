@@ -28,15 +28,18 @@ You can modify your launcher icon to use this command line instead :
 
 The game is in [latin1](https://en.wikipedia.org/wiki/ISO/IEC_8859-1), but modern Linuces use UTF8.
 
-It's mostly a French thing. Check your operating system docs to make the non UTF8 (usually ISO-8859-1) locale available.
+It's mostly a French thing. Check your operating system docs to make the non UTF8 (usually ISO-8859-1) locale available (run `locale -a` to see them).
 
 Once done, you can modify your launcher icon to use this command line instead (example for French) :
 
 ```sh
+# French example
 /usr/bin/env LANG=fr_FR.ISO-8859-1 /where/is/regnum/rolauncher
+# Generic, work for any language, but no thousands separator
+/usr/bin/env LANG=C /where/is/regnum/rolauncher
 ```
 
-Known working locales changes below.
+It"s possible that you need to add that locale to your system if not present:
 
 ### Debian and derivatives
 
