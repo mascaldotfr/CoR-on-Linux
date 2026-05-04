@@ -2,7 +2,7 @@
 
 Oh, so you chose the **VERY** hard way.
 
-Given it's 2025, we assume you are using the 64bit client
+Given it's 2026, we assume you are using the 64bit client
 
 ## Download and execute the installer
 
@@ -16,7 +16,7 @@ Given it's 2025, we assume you are using the 64bit client
   
 ## Installing packages and necessary symbolic links
 
-See also https://github.com/mascaldotfr/cor-debian-packages
+See also [https://codeberg.org/mascal/cor-debian-packages](https://codeberg.org/mascal/cor-debian-packages)
 
 It's where your mileage may vary. Technically you need to:
 
