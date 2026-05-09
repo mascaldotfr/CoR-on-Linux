@@ -27,7 +27,7 @@ It's where your mileage may vary. Technically you need to:
 
 Some known working infos on different distros are presented below.
 
-### Fedora
+### Fedora / Nobara
 
 ```sh
 sudo dnf install gtk2
@@ -35,10 +35,6 @@ cd /lib64
 sudo ln -s libncursesw.so.6 libncursesw.so.5
 sudo ln -s libtinfo.so.6 libtinfo.so.5
 ```
-
-### Nobara
-
-At least one player reported to be able to run the game without further modifications.
 
 ### Void Linux
 
