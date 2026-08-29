@@ -14,6 +14,16 @@ You can modify your launcher icon to use this command line instead :
 /usr/bin/env MESA_EXTENSION_MAX_YEAR=2009 /where/is/regnum/rolauncher
 ```
 
+### KDE
+
+On KDE, right click on your Regnum icon and:
+
+1. Click on _Properties_
+2. Add `MESA_EXTENSION_MAX_YEAR=2009` to _Environment variables_ and click on _OK_.
+
+
+![](img/troubleshooting.md/kde.webp)
+
 ## Limited FPS
 
 On Linux, vsync is usually the default, whatever you put in the game options.
