@@ -13,7 +13,7 @@ Given it's 2026, we assume you are using the 64bit client
 3. Execute the installer:
    - just (double) click on it
    - you can also run it from the terminal: `~/Downloads/ROInstall_64`
-  
+
 ## Installing packages and necessary symbolic links
 
 See also [https://codeberg.org/mascal/cor-debian-packages](https://codeberg.org/mascal/cor-debian-packages)
@@ -27,7 +27,7 @@ It's where your mileage may vary. Technically you need to:
 
 Some known working infos on different distros are presented below.
 
-### Fedora / Nobara
+### Fedora / Nobara / openSUSE
 
 ```sh
 sudo dnf install gtk2
